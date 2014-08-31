@@ -1,0 +1,54 @@
+11/08/14
+*******************************************************************************
+15:40  --> Contacted Mentors
+
+17:00  --> First meeting with mentors at CIE(Introduction to the project and android, Got small apps to make in one week time and present them by this Sunday)
+
+20:30  --> Mailed our details to mentors and basic information of the app we are going to make
+
+13/08/14
+*******************************************************************************
+22:00 --> Group meeting/learning together
+
+14/08/14 
+*******************************************************************************
+11:35 --> Group discussion/helping each other with sdk related issues
+16:45 --> Meeting with Sri Harsha Sir at CIE for evaluating the project status, discussing issues, etc
+
+17/08/14
+*******************************************************************************
+17:00 --> Meeting scheduled today was postponed 1 or 2 days after and mentors asked to submit the status of the mini app given
+
+23/08/14
+*******************************************************************************
+We all had a meeting online to discuss the important points regarding the  project synopsis document. We could not have a meeting face to face as all the team members were not in the campus.
+
+26/08/14
+*******************************************************************************
+14:40 --> Meeting with client for discussing the status of the small apps that were given to make. Also we got the brief idea about the project
+		  and client gave task to draw flow charts of the app.
+20:10 --> Team meeting for making flow charts for the app
+22:30 --> Showing the flow charts to the client and the next task is to draw approximate screens of the app that we are going to make.
+
+27/08/14
+*******************************************************************************
+Time: 21:00 - 21:30
+Attendees : Jalpreet, Raj, Manas, Vikram
+Topic : App Screens
+
+In this meeting we had a discussion on the different screens we are going to have in our app. We made drawings of how each screen would look like and what each screen would contain. We made the workflow of the app, i.e., which screen shouldcome at what point.
+We have mailed the App Screens to our clients.
+
+Next Meeting: It would be probably on 28/08/14.
+
+31/01/14
+*******************************************************************************
+Time: 17:30 - 18:40
+Attendees : Manas, Vikram, Raj, Jalpreet
+Topic : Project Plan Document
+
+In this meeting we edited the Project Plan Document. Also we discussed about the features that would be included in the app till R1 and what till R2.
+This document was mailed to the client for further changes in the milestones etc.
+
+Next Meeting : 01/09/14
+

@@ -1,0 +1,11 @@
+Topic: First Meeting With The Mentors
+Date: 11/08/14
+Time: 17:00-18:30
+Place: CIE, IIIT-H
+Attendees: Jalpreet, Raj, Vikram, Manas
+
+Important Points of Discussion:
+1. Basic introduction between our team and the mentors.
+2. All of us were asked to suggest some idea related to a video app(i.e, which i   s the base of our project).
+3. Then all of us were told to make an app on the idea that we suggested and show it by 17th August(Sunday).
+4. Then Abhilash Sir(One of our Mentors) gave us a little intro on Android.

@@ -1,0 +1,14 @@
+Fifth Meeting 
+Topic: Discussion about the screens for the app and further discussion on workflow
+Date: 29/08/14
+Time: 12:00-13:00
+Next Meeting: 1/09/14
+Place: CIE, IIIT-H
+Attendees: Jalpreet, Raj, Vikram, Manas
+
+Important Points of Discussion:
+1. Prioritisation of Google and Facebook integration for easy sharing of invites.
+2. Finalisation of basic UI for the app.
+3. Finalisation of design details regarding added effects for each type of invitation.
+4. Drawing similarities between YourEvent.co website and app screens in terms of colour code and design.
+5. Assignment of photoshop implementation of design of app screens to Manas and Jalpreet.
